@@ -1,90 +1,90 @@
-# Bright Data's Brazil Proxies
+# Bright Dataのブラジルプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/br) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/br) 
 
-## Overview
-Experience seamless scraping with Bright Data's [Brazil proxies](https://brightdata.com/locations/br), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Brazil and don't get blocked again.
+## 概要
+精密なターゲティング、比類ない安定性、高速なレスポンスタイムを実現するよう設計されたBright Dataの[ブラジルプロキシ](https://brightdata.jp/locations/br)で、シームレスなスクレイピングを体験してください。ブラジルからWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
 
-- **3.8M Brazil proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **City, state, ZIP code level targeting (Free)**
+- **3.8M ブラジルプロキシIP**
+- **スティッキーおよびローテーティングセッション**
+- **99.95% 成功率**
+- **HTTP(S) & SOCKS5サポート**
+- **都市・州・郵便番号レベルのターゲティング（無料）**
 
-## Key Features
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な機能
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を達成できます。
+- **高速レスポンス**: 平均レスポンスタイムは約0.7秒です。
+- **倫理的に調達**: すべてのプロキシは、明示的なユーザー同意のもとで調達されています。
+- **無制限の同時セッション**: 制限なく運用をスケールできます。
 
-## Types of Brazil Proxies
+## ブラジルプロキシの種類
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**Residential proxies**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシで、手間なくスクレイピングを行えます。正確なターゲティングと比類ない信頼性をご活用ください。
   
-- **3.5M Brazil residential IPs**
-- **HTTP(S)/ & SOCKS5 supported**
-- **Global customer support**
+- **3.5M ブラジル レジデンシャルIP**
+- **HTTP(S)/ & SOCKS5対応**
+- **グローバルカスタマーサポート**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**Datacenter proxies**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いデータセンターIPプールを利用して、匿名データ収集を容易にスケールできます。
   
-- **29,900 Brazil datacenter IPs**
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **29,900 ブラジル データセンターIP**
+- **0.24秒のレスポンスタイム**
+- **IPごとの従量課金、または帯域幅使用量課金**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISP proxies**](https://brightdata.jp/proxy-types/isp-proxies)** - 一生使い続けられる最高品質のスタティックレジデンシャルプロキシです。
   
-- **11,700 Brazil static residential IPs**
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **11,700 ブラジル スタティックレジデンシャルIP**
+- **IPごとの従量課金、または帯域幅使用量課金**
+- **業界最速のレスポンスタイム**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**Mobile proxies**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPにより、実際のモバイルユーザーのようにWebを閲覧できます。
   
-- **230,800 Brazil mobile proxy IPs**
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **230,800 ブラジル モバイルプロキシIP**
+- **3G/4G/5GモバイルIP**
+- **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/br) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/br) 
 
-## Getting Started with Bright Data's Brazil proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Bright Dataのブラジルプロキシの始め方
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPや設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けにクイックスタート例を提供しています。
 
-## Integrations
-Our Brazil proxies integrate with popular tools and frameworks, including:
+## 連携
+当社のブラジルプロキシは、以下を含む人気のツールやフレームワークと連携できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
 
-## Popular Use Cases
-Explore how businesses leverage Brazil proxies:
+## 人気のユースケース
+企業がブラジルプロキシをどのように活用しているかをご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドをモニタリングします。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): トレンドを安全に分析します。
 
 ## FAQ
 
-### What is an Brazil proxy server?
-An Brazil proxy server is a server based in Brazil that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### ブラジルプロキシサーバーとは何ですか？
+ブラジルプロキシサーバーとは、ブラジルに設置されたサーバーであり、お客様のデバイスとインターネットの間に入る仲介役として機能します。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
 
-### Can I target ZIP codes across Brazil?
-Yes, you can choose IPs using Brazil zip code level targeting. Bright Data also offers city and state level proxy targeting.
+### ブラジル全土の郵便番号をターゲティングできますか？
+はい、ブラジルの郵便番号レベルのターゲティングを使用してIPを選択できます。Bright Dataは都市および州レベルのプロキシターゲティングも提供しています。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### どのようなプランがありますか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: GBあたりの固定料金です。
+- **サブスクリプションプラン**: 月額、年額、およびカスタムオプションです。
 
-### Are Bright Data's Brazil Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright Dataのブラジルプロキシはコンプライアンスに準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に調達されており、GDPRおよびCCPAを含む関連するすべてのデータ保護法を遵守しています。
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### 専任サポートは利用できますか？
+専任サポートチームが24/7でお客様を支援します。お客様のニーズについてご相談いただき、Dedicated proxy networkの利点を最大限に引き出すために、ぜひお問い合わせください。
